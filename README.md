@@ -1,5 +1,5 @@
 # PasswordGenerator
-Auto-generated Password with complex requirements and user can choose the length of a password at ease.
+Automatic Password Generator with complex requirements and user can choose the length of a password at ease.
 
 <b>** Complex Password Requirements **<b>
 1. Minimum Length : 8-12 characters
